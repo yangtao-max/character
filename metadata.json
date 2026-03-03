@@ -1,0 +1,5 @@
+{
+  "name": "Story Chat",
+  "description": "A conversational voice app that lets you chat with characters from stories.",
+  "requestFramePermissions": ["microphone"]
+}
